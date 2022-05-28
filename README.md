@@ -2,11 +2,11 @@
 Web Scraping 
 the requirments are 
 
-lxml 
-reqursts 
+lxml,
+reqursts, 
 bs4 
 
 use -
-pip install lxml 
-pip install bs4 
-pip install requests 
+pip install lxml,
+pip install bs4,
+pip install requests, 
