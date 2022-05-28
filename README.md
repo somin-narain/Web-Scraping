@@ -1,6 +1,5 @@
 # Web-Scraping
-Web Scraping 
-the requirments are 
+requirments -  
 
 lxml,
 reqursts, 
